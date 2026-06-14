@@ -1,0 +1,1354 @@
+[
+  {
+    "skill_name": "文件:宝具威力提升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%AE%9D%E5%85%B7%E5%A8%81%E5%8A%9B%E6%8F%90%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:宝具威力提升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:阵地建造.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E9%98%B5%E5%9C%B0%E5%BB%BA%E9%80%A0.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:阵地建造.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:充能阶段上升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%85%85%E8%83%BD%E9%98%B6%E6%AE%B5%E4%B8%8A%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:充能阶段上升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:星之笼(大).png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%98%9F%E4%B9%8B%E7%AC%BC(%E5%A4%A7).png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:星之笼(大).png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:秀丽风情.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%A7%80%E4%B8%BD%E9%A3%8E%E6%83%85.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:秀丽风情.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "单人教学",
+    "path": "/w/%E5%8D%95%E4%BA%BA%E6%95%99%E5%AD%A6",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】单人教学｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:单独行动.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%8D%95%E7%8B%AC%E8%A1%8C%E5%8A%A8.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:单独行动.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:宝具威力耐性提升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%AE%9D%E5%85%B7%E5%A8%81%E5%8A%9B%E8%80%90%E6%80%A7%E6%8F%90%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:宝具威力耐性提升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:暴击威力下降.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%9A%B4%E5%87%BB%E5%A8%81%E5%8A%9B%E4%B8%8B%E9%99%8D.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:暴击威力下降.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:必中.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%BF%85%E4%B8%AD.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:必中.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:冥界守护.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%86%A5%E7%95%8C%E5%AE%88%E6%8A%A4.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:冥界守护.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:即死无效.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%8D%B3%E6%AD%BB%E6%97%A0%E6%95%88.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:即死无效.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "迦勒底之晨",
+    "path": "/w/%E8%BF%A6%E5%8B%92%E5%BA%95%E4%B9%8B%E6%99%A8",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】迦勒底之晨｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:对魔力.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%AF%B9%E9%AD%94%E5%8A%9B.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:对魔力.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:与睿智的接触.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E4%B8%8E%E7%9D%BF%E6%99%BA%E7%9A%84%E6%8E%A5%E8%A7%A6.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:与睿智的接触.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "享用浪漫",
+    "path": "/w/%E4%BA%AB%E7%94%A8%E6%B5%AA%E6%BC%AB",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】享用浪漫｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:毅力.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%AF%85%E5%8A%9B.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:毅力.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "个人训练",
+    "path": "/w/%E4%B8%AA%E4%BA%BA%E8%AE%AD%E7%BB%83",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】个人训练｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:弱化解除.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%BC%B1%E5%8C%96%E8%A7%A3%E9%99%A4.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:弱化解除.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "蒙娜丽莎",
+    "path": "/w/%E8%92%99%E5%A8%9C%E4%B8%BD%E8%8E%8E",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】蒙娜丽莎｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:宝具威力下降.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%AE%9D%E5%85%B7%E5%A8%81%E5%8A%9B%E4%B8%8B%E9%99%8D.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:宝具威力下降.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:领域外生命.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E9%A2%86%E5%9F%9F%E5%A4%96%E7%94%9F%E5%91%BD.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:领域外生命.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:QP掉落.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:QP%E6%8E%89%E8%90%BD.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:QP掉落.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:暴击发生率下降.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%9A%B4%E5%87%BB%E5%8F%91%E7%94%9F%E7%8E%87%E4%B8%8B%E9%99%8D.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:暴击发生率下降.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:弱化耐性提升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%BC%B1%E5%8C%96%E8%80%90%E6%80%A7%E6%8F%90%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:弱化耐性提升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "名侦探芙尔摩斯",
+    "path": "/w/%E5%90%8D%E4%BE%A6%E6%8E%A2%E8%8A%99%E5%B0%94%E6%91%A9%E6%96%AF",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】名侦探芙尔摩斯｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:特殊耐性提升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%89%B9%E6%AE%8A%E8%80%90%E6%80%A7%E6%8F%90%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:特殊耐性提升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:每回合回复.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%AF%8F%E5%9B%9E%E5%90%88%E5%9B%9E%E5%A4%8D.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:每回合回复.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:攻击附加弱化.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%94%BB%E5%87%BB%E9%99%84%E5%8A%A0%E5%BC%B1%E5%8C%96.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:攻击附加弱化.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "迦勒底午餐时光",
+    "path": "/w/%E8%BF%A6%E5%8B%92%E5%BA%95%E5%8D%88%E9%A4%90%E6%97%B6%E5%85%89",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】迦勒底午餐时光｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:直死之魔眼.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%9B%B4%E6%AD%BB%E4%B9%8B%E9%AD%94%E7%9C%BC.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:直死之魔眼.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:绿放.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%BB%BF%E6%94%BE.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:绿放.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:完全流体.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%AE%8C%E5%85%A8%E6%B5%81%E4%BD%93.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:完全流体.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:狂化.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%8B%82%E5%8C%96.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:狂化.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:目标集中.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%9B%AE%E6%A0%87%E9%9B%86%E4%B8%AD.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:目标集中.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:强化解除耐性提升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%BC%BA%E5%8C%96%E8%A7%A3%E9%99%A4%E8%80%90%E6%80%A7%E6%8F%90%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:强化解除耐性提升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:红蓝放.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%BA%A2%E8%93%9D%E6%94%BE.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:红蓝放.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "格兰·卡瓦洛",
+    "path": "/w/%E6%A0%BC%E5%85%B0%C2%B7%E5%8D%A1%E7%93%A6%E6%B4%9B",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】格兰·卡瓦洛｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:魅惑.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E9%AD%85%E6%83%91.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:魅惑.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:即死耐性提升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%8D%B3%E6%AD%BB%E8%80%90%E6%80%A7%E6%8F%90%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:即死耐性提升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:受击NP获得量提升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%8F%97%E5%87%BBNP%E8%8E%B7%E5%BE%97%E9%87%8F%E6%8F%90%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:受击NP获得量提升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:无敌.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%97%A0%E6%95%8C.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:无敌.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:对肃正防御化.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%AF%B9%E8%82%83%E6%AD%A3%E9%98%B2%E5%BE%A1%E5%8C%96.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:对肃正防御化.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "来自NFF的爱",
+    "path": "/w/%E6%9D%A5%E8%87%AANFF%E7%9A%84%E7%88%B1",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】来自NFF的爱｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:洗牌.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%B4%97%E7%89%8C.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:洗牌.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "狼的故事",
+    "path": "/w/%E7%8B%BC%E7%9A%84%E6%95%85%E4%BA%8B",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】狼的故事｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:即死耐性下降.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%8D%B3%E6%AD%BB%E8%80%90%E6%80%A7%E4%B8%8B%E9%99%8D.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:即死耐性下降.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "拂晓之前",
+    "path": "/w/%E6%8B%82%E6%99%93%E4%B9%8B%E5%89%8D",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】拂晓之前｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:阴阳鱼.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E9%98%B4%E9%98%B3%E9%B1%BC.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:阴阳鱼.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:妖星火轮.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%A6%96%E6%98%9F%E7%81%AB%E8%BD%AE.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:妖星火轮.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "偶像培育者",
+    "path": "/w/%E5%81%B6%E5%83%8F%E5%9F%B9%E8%82%B2%E8%80%85",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】偶像培育者｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:宝箱.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%AE%9D%E7%AE%B1.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:宝箱.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:换人.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%8D%A2%E4%BA%BA.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:换人.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:攻击附加强化.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%94%BB%E5%87%BB%E9%99%84%E5%8A%A0%E5%BC%BA%E5%8C%96.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:攻击附加强化.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "无雪之夜过后",
+    "path": "/w/%E6%97%A0%E9%9B%AA%E4%B9%8B%E5%A4%9C%E8%BF%87%E5%90%8E",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】无雪之夜过后｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:降攻防.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E9%99%8D%E6%94%BB%E9%98%B2.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:降攻防.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "至诚的一针",
+    "path": "/w/%E8%87%B3%E8%AF%9A%E7%9A%84%E4%B8%80%E9%92%88",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】至诚的一针｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:点赞！之力.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%82%B9%E8%B5%9E%EF%BC%81%E4%B9%8B%E5%8A%9B.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:点赞！之力.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:蓝卡集星.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E8%93%9D%E5%8D%A1%E9%9B%86%E6%98%9F.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:蓝卡集星.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "步入奇妙帷幕中",
+    "path": "/w/%E6%AD%A5%E5%85%A5%E5%A5%87%E5%A6%99%E5%B8%B7%E5%B9%95%E4%B8%AD",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】步入奇妙帷幕中｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:气息遮断.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%B0%94%E6%81%AF%E9%81%AE%E6%96%AD.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:气息遮断.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:暴击威力提升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%9A%B4%E5%87%BB%E5%A8%81%E5%8A%9B%E6%8F%90%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:暴击威力提升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:回合出星.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%9B%9E%E5%90%88%E5%87%BA%E6%98%9F.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:回合出星.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:即死成功率下降.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%8D%B3%E6%AD%BB%E6%88%90%E5%8A%9F%E7%8E%87%E4%B8%8B%E9%99%8D.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:即死成功率下降.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:封印.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%B0%81%E5%8D%B0.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:封印.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:无敌贯通.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%97%A0%E6%95%8C%E8%B4%AF%E9%80%9A.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:无敌贯通.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:神性.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%A5%9E%E6%80%A7.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:神性.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "迦勒底午茶时光",
+    "path": "/w/%E8%BF%A6%E5%8B%92%E5%BA%95%E5%8D%88%E8%8C%B6%E6%97%B6%E5%85%89",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】迦勒底午茶时光｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:掉星率增加.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%8E%89%E6%98%9F%E7%8E%87%E5%A2%9E%E5%8A%A0.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:掉星率增加.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:眩晕.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%9C%A9%E6%99%95.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:眩晕.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:光之地平线.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%85%89%E4%B9%8B%E5%9C%B0%E5%B9%B3%E7%BA%BF.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:光之地平线.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:噬樱者.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%99%AC%E6%A8%B1%E8%80%85.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:噬樱者.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:空白效果.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%A9%BA%E7%99%BD%E6%95%88%E6%9E%9C.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:空白效果.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:忘却补正.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%BF%98%E5%8D%B4%E8%A1%A5%E6%AD%A3.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:忘却补正.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:反集星.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%8F%8D%E9%9B%86%E6%98%9F.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:反集星.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:回复量下降.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%9B%9E%E5%A4%8D%E9%87%8F%E4%B8%8B%E9%99%8D.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:回复量下降.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:鲜红的一击.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E9%B2%9C%E7%BA%A2%E7%9A%84%E4%B8%80%E5%87%BB.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:鲜红的一击.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:降攻.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E9%99%8D%E6%94%BB.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:降攻.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:军神之剑.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%86%9B%E7%A5%9E%E4%B9%8B%E5%89%91.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:军神之剑.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:强化解除耐性下降.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%BC%BA%E5%8C%96%E8%A7%A3%E9%99%A4%E8%80%90%E6%80%A7%E4%B8%8B%E9%99%8D.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:强化解除耐性下降.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "私人指导",
+    "path": "/w/%E7%A7%81%E4%BA%BA%E6%8C%87%E5%AF%BC",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】私人指导｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:自我回复（魔力）.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E8%87%AA%E6%88%91%E5%9B%9E%E5%A4%8D%EF%BC%88%E9%AD%94%E5%8A%9B%EF%BC%89.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:自我回复（魔力）.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:弱化无效.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%BC%B1%E5%8C%96%E6%97%A0%E6%95%88.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:弱化无效.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "手稿之翼",
+    "path": "/w/%E6%89%8B%E7%A8%BF%E4%B9%8B%E7%BF%BC",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】手稿之翼｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "献给幸福的新娘",
+    "path": "/w/%E7%8C%AE%E7%BB%99%E5%B9%B8%E7%A6%8F%E7%9A%84%E6%96%B0%E5%A8%98",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】献给幸福的新娘｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:秒表buff.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%A7%92%E8%A1%A8buff.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:秒表buff.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:牵绊之力 铜.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%89%B5%E7%BB%8A%E4%B9%8B%E5%8A%9B_%E9%93%9C.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:牵绊之力 铜.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "迎向碧空",
+    "path": "/w/%E8%BF%8E%E5%90%91%E7%A2%A7%E7%A9%BA",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】迎向碧空｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:弱化耐性下降.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%BC%B1%E5%8C%96%E8%80%90%E6%80%A7%E4%B8%8B%E9%99%8D.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:弱化耐性下降.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:蓝绿放.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E8%93%9D%E7%BB%BF%E6%94%BE.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:蓝绿放.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:三色魔放.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E4%B8%89%E8%89%B2%E9%AD%94%E6%94%BE.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:三色魔放.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:血量上升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E8%A1%80%E9%87%8F%E4%B8%8A%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:血量上升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "检查报告",
+    "path": "/w/%E6%A3%80%E6%9F%A5%E6%8A%A5%E5%91%8A",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】检查报告｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:复仇者.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%A4%8D%E4%BB%87%E8%80%85.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:复仇者.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:本能寺点提升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%9C%AC%E8%83%BD%E5%AF%BA%E7%82%B9%E6%8F%90%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:本能寺点提升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "迦勒底之人",
+    "path": "/w/%E3%82%AB%E3%83%AB%E3%83%87%E3%82%A2%E3%81%AE%E8%80%85",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】迦勒底之人｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:充能.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%85%85%E8%83%BD.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:充能.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:追加出现率提升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E8%BF%BD%E5%8A%A0%E5%87%BA%E7%8E%B0%E7%8E%87%E6%8F%90%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:追加出现率提升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "穿过乌云",
+    "path": "/w/%E7%A9%BF%E8%BF%87%E4%B9%8C%E4%BA%91",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】穿过乌云｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:绿卡集星.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%BB%BF%E5%8D%A1%E9%9B%86%E6%98%9F.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:绿卡集星.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:即死成功率提升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%8D%B3%E6%AD%BB%E6%88%90%E5%8A%9F%E7%8E%87%E6%8F%90%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:即死成功率提升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:秒表毅力.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%A7%92%E8%A1%A8%E6%AF%85%E5%8A%9B.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:秒表毅力.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:魔弹.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E9%AD%94%E5%BC%B9.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:魔弹.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:伤害下降.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E4%BC%A4%E5%AE%B3%E4%B8%8B%E9%99%8D.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:伤害下降.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:红绿放.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%BA%A2%E7%BB%BF%E6%94%BE.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:红绿放.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:秒表回复.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%A7%92%E8%A1%A8%E5%9B%9E%E5%A4%8D.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:秒表回复.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:无貌之月.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%97%A0%E8%B2%8C%E4%B9%8B%E6%9C%88.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:无貌之月.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "自由坐席",
+    "path": "/w/%E8%87%AA%E7%94%B1%E5%9D%90%E5%B8%AD",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】自由坐席｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "暮景冥想",
+    "path": "/w/%E6%9A%AE%E6%99%AF%E5%86%A5%E6%83%B3",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】暮景冥想｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:人鱼肉.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E4%BA%BA%E9%B1%BC%E8%82%89.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:人鱼肉.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:加攻.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%8A%A0%E6%94%BB.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:加攻.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:雅号·异星蛸.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E9%9B%85%E5%8F%B7%C2%B7%E5%BC%82%E6%98%9F%E8%9B%B8.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:雅号·异星蛸.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:女神的神核.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%A5%B3%E7%A5%9E%E7%9A%84%E7%A5%9E%E6%A0%B8.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:女神的神核.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:集星.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E9%9B%86%E6%98%9F.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:集星.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "迦勒底的男人",
+    "path": "/w/%E8%BF%A6%E5%8B%92%E5%BA%95%E7%9A%84%E7%94%B7%E4%BA%BA",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】迦勒底的男人｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:战士之司.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%88%98%E5%A3%AB%E4%B9%8B%E5%8F%B8.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:战士之司.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:回避.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%9B%9E%E9%81%BF.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:回避.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:灼伤.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%81%BC%E4%BC%A4.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:灼伤.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "技能一览/追加技能",
+    "path": "/w/%E6%8A%80%E8%83%BD%E4%B8%80%E8%A7%88/%E8%BF%BD%E5%8A%A0%E6%8A%80%E8%83%BD",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】技能一览/追加技能｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:出星.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%87%BA%E6%98%9F.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:出星.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:毒.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%AF%92.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:毒.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "贝拉·丽莎",
+    "path": "/w/%E8%B4%9D%E6%8B%89%C2%B7%E4%B8%BD%E8%8E%8E",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】贝拉·丽莎｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:弱化成功率提升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%BC%B1%E5%8C%96%E6%88%90%E5%8A%9F%E7%8E%87%E6%8F%90%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:弱化成功率提升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:红放.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%BA%A2%E6%94%BE.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:红放.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:受击NP获得量下降.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%8F%97%E5%87%BBNP%E8%8E%B7%E5%BE%97%E9%87%8F%E4%B8%8B%E9%99%8D.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:受击NP获得量下降.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "秉持风雅",
+    "path": "/w/%E7%A7%89%E6%8C%81%E9%A3%8E%E9%9B%85",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】秉持风雅｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "流転の剣聖",
+    "path": "/w/%E6%B5%81%E8%BB%A2%E3%81%AE%E5%89%A3%E8%81%96",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】流転の剣聖｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:蓝放.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E8%93%9D%E6%94%BE.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:蓝放.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:回合充能.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%9B%9E%E5%90%88%E5%85%85%E8%83%BD.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:回合充能.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:诅咒.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E8%AF%85%E5%92%92.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:诅咒.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:无视防御.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%97%A0%E8%A7%86%E9%98%B2%E5%BE%A1.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:无视防御.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "寻求悠久的尽头",
+    "path": "/w/%E5%AF%BB%E6%B1%82%E6%82%A0%E4%B9%85%E7%9A%84%E5%B0%BD%E5%A4%B4",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】寻求悠久的尽头｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:罗宾鸟.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%BD%97%E5%AE%BE%E9%B8%9F.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:罗宾鸟.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:秒表亡语.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%A7%92%E8%A1%A8%E4%BA%A1%E8%AF%AD.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:秒表亡语.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:骑乘.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E9%AA%91%E4%B9%98.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:骑乘.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:被暴击发生耐性提升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E8%A2%AB%E6%9A%B4%E5%87%BB%E5%8F%91%E7%94%9F%E8%80%90%E6%80%A7%E6%8F%90%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:被暴击发生耐性提升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:Red Star Vamp.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:Red_Star_Vamp.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:Red Star Vamp.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:对肃正防御.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%AF%B9%E8%82%83%E6%AD%A3%E9%98%B2%E5%BE%A1.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:对肃正防御.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:牵绊获得量提升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%89%B5%E7%BB%8A%E8%8E%B7%E5%BE%97%E9%87%8F%E6%8F%90%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:牵绊获得量提升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:第五势.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%AC%AC%E4%BA%94%E5%8A%BF.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:第五势.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:回血.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%9B%9E%E8%A1%80.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:回血.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:弱化成功率下降.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%BC%B1%E5%8C%96%E6%88%90%E5%8A%9F%E7%8E%87%E4%B8%8B%E9%99%8D.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:弱化成功率下降.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:星之笼(小).png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%98%9F%E4%B9%8B%E7%AC%BC(%E5%B0%8F).png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:星之笼(小).png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:第五盛.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%AC%AC%E4%BA%94%E7%9B%9B.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:第五盛.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:道具作成.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E9%81%93%E5%85%B7%E4%BD%9C%E6%88%90.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:道具作成.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:减冷却.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%87%8F%E5%86%B7%E5%8D%B4.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:减冷却.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:特攻.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%89%B9%E6%94%BB.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:特攻.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:强化无效.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%BC%BA%E5%8C%96%E6%97%A0%E6%95%88.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:强化无效.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "总统之海洋",
+    "path": "/w/%E6%80%BB%E7%BB%9F%E4%B9%8B%E6%B5%B7%E6%B4%8B",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】总统之海洋｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "记忆的大图书馆",
+    "path": "/w/%E8%A8%98%E6%86%B6%E3%81%AE%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】记忆的大图书馆｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:加攻加防.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%8A%A0%E6%94%BB%E5%8A%A0%E9%98%B2.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:加攻加防.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "梦想衣橱",
+    "path": "/w/%E6%A2%A6%E6%83%B3%E8%A1%A3%E6%A9%B1",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】梦想衣橱｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:红卡集星.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%BA%A2%E5%8D%A1%E9%9B%86%E6%98%9F.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:红卡集星.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "迦勒底晚餐时光",
+    "path": "/w/%E8%BF%A6%E5%8B%92%E5%BA%95%E6%99%9A%E9%A4%90%E6%97%B6%E5%85%89",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】迦勒底晚餐时光｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:经验增加.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%BB%8F%E9%AA%8C%E5%A2%9E%E5%8A%A0.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:经验增加.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:特殊耐性下降.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%89%B9%E6%AE%8A%E8%80%90%E6%80%A7%E4%B8%8B%E9%99%8D.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:特殊耐性下降.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:加防.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%8A%A0%E9%98%B2.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:加防.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "秘密任务",
+    "path": "/w/%E7%A7%98%E5%AF%86%E4%BB%BB%E5%8A%A1",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】秘密任务｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:NP获得量提升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:NP%E8%8E%B7%E5%BE%97%E9%87%8F%E6%8F%90%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:NP获得量提升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:己阵防御.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%B7%B1%E9%98%B5%E9%98%B2%E5%BE%A1.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:己阵防御.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:睡眠.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%9D%A1%E7%9C%A0.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:睡眠.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:未知技能.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E6%9C%AA%E7%9F%A5%E6%8A%80%E8%83%BD.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:未知技能.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:牵绊之力 金.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%89%B5%E7%BB%8A%E4%B9%8B%E5%8A%9B_%E9%87%91.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:牵绊之力 金.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "异星之神",
+    "path": "/w/%E5%BC%82%E6%98%9F%E4%B9%8B%E7%A5%9E",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】异星之神｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:灭气.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%81%AD%E6%B0%94.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:灭气.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:牵绊之力 银.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E7%89%B5%E7%BB%8A%E4%B9%8B%E5%8A%9B_%E9%93%B6.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:牵绊之力 银.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:降防.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E9%99%8D%E9%98%B2.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:降防.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:回复量提升.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E5%9B%9E%E5%A4%8D%E9%87%8F%E6%8F%90%E5%8D%87.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:回复量提升.png｜分类:\n基础效果：\n升级效果："
+  },
+  {
+    "skill_name": "文件:下毒.png",
+    "path": "/w/%E6%96%87%E4%BB%B6:%E4%B8%8B%E6%AF%92.png",
+    "type": "",
+    "effect": "",
+    "up_effect": "",
+    "rag_text": "【技能】文件:下毒.png｜分类:\n基础效果：\n升级效果："
+  }
+]
